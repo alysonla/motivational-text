@@ -1,3 +1,27 @@
+#Motivational Text 
+
+##@alysonla version
+
+What it is...
+
+Similar to Brent Beer, I think it would be awesome to a motiviational text every couple days or so telling me how awesome I am, in case I forget. 
+
+Also I've been wanted to try to hack on a thing using Twilio. 
+
+TODO:
+
+* Figure out to run the current project 
+* Hack on it to customize messages
+* Link the project page
+
+Current problem: 
+
+* Getting an error when starting the rails server: 
+`An error occurred while installing SystemTimer (1.2.3), and Bundler cannot continue.
+Make sure that `gem install SystemTimer -v '1.2.3'` succeeds before bundling.`
+
+A hack from: 
+
 #Motivational Text!
 
 ##Texting? Why
